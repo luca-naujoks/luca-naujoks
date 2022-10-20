@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-<a href="https://boby68.de">
+<a href="https://bobby68.de">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
 <a href="https://discord.com/users/528982743623925781">
   <img height="50" src="https://img.icons8.com/color/344/discord-new-logo.png"/>
