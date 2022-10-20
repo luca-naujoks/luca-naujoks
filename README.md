@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+  <img src="https://cdn.discordapp.com/attachments/928355958281883748/1032721085831057428/github-header-image.png"/>
 </p>
 
 <h1 align="center">
-  You can reach me at 💬
+  💬 You can reach me at 💬
 </h1>
 
 <p align="center">
@@ -57,7 +57,7 @@ hobbies: ["Gaming", "Programming", "Firefighter", "Diving", "play with hardware"
   
 ---  
   
-<h2> 🚀 &nbsp;Some Tools I Use</h2>
+<h2> 🚀 &nbsp;Some Tools I Use&nbsp; 🚀</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg"
