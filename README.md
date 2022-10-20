@@ -9,16 +9,16 @@
 <p align="center">
 <a href="https://boby68.de">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
-<a href="https://">
+<a href="https://discord.com/users/528982743623925781">
   <img height="50" src="https://img.icons8.com/color/344/discord-new-logo.png"/>
 </a>
-<a href="https://">
+<a href="https://live.xbox.com/Profile?Gamertag=Bobby3498">
   <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Xbox_one_logo.svg/2048px-Xbox_one_logo.svg.png"/>
 </a>
-<a href="https://www.instagram.com/thepiyushmalhotra/">
+<a href="https://www.instagram.com/anonymes_bobby68/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
-<a href="https://">
+<a href="https://www.youtube.com/channel/UCjPMp9s9WDkeJy2Ta5vjh0A/featured">
   <img height="50" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png"/>
 </a>
 </p>
@@ -47,11 +47,11 @@ fields_of_interests:
   ]
 technical_background:
   [
-   ...
+   "IT system electronics technician"
   ]
   
 currently_learning: ["Docker, Angular"]
-2022 Goals: [""]
+2022 Goals: ["Learn Angular and progress in Docker"]
 hobbies: ["Gaming", "Programming", "Firefighter", "Diving", "play with hardware"]
 ```
   
@@ -64,19 +64,25 @@ hobbies: ["Gaming", "Programming", "Firefighter", "Diving", "play with hardware"
 alt="PyCharm" width="45" height="45">
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg"
 alt="IntelliJ" width="45" height="45">
+</p>
 
+<p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
 <img src="https://www.kim-bewertung.de/wp-content/uploads/2021/06/Windows-10-Icon.png" alt="Windows" width="45" height="45"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Icon-Mac.svg/256px-Icon-Mac.svg.png"
 alt="Mac OS/IOS" width="45"height="45"/>
+</p>
 
+<p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="python" width="45" height="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
+</p>
 
+<p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
 </p>
