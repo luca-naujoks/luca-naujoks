@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  💬 You can reach me at 💬
+  💬 You Can Reach Me At 💬
 </h1>
 
 <p align="center">
@@ -29,7 +29,7 @@
 
 ---
 
-<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me And My Interests</h2>
 
 ```yaml
 name: Luca Naujoks
