@@ -43,7 +43,6 @@ fields_of_interests:
     "Data Science",
     "Machine Learning",
     "Game Development",
-    "DevOps",
   ]
 technical_background:
   [
