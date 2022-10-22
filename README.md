@@ -7,18 +7,18 @@
 </h1>
 
 <p align="center">
-<a href="https://bobby68.de">
+<a href="https://bobby68.de" target="_blank">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
-<a href="https://discord.com/users/528982743623925781">
+<a href="https://discord.com/users/528982743623925781" target="_blank">
   <img height="50" src="https://img.icons8.com/color/344/discord-new-logo.png"/>
 </a>
-<a href="https://live.xbox.com/Profile?Gamertag=Bobby3498">
+<a href="https://live.xbox.com/Profile?Gamertag=Bobby3498" target="_blank">
   <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Xbox_one_logo.svg/2048px-Xbox_one_logo.svg.png"/>
 </a>
-<a href="https://www.instagram.com/anonymes_bobby68/">
+<a href="https://www.instagram.com/anonymes_bobby68/" target="_blank">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
-<a href="https://www.youtube.com/channel/UCjPMp9s9WDkeJy2Ta5vjh0A/featured">
+<a href="https://www.youtube.com/channel/UCjPMp9s9WDkeJy2Ta5vjh0A/featured" target="_blank">
   <img height="50" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png"/>
 </a>
 </p>
