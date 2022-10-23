@@ -89,7 +89,7 @@ alt="Mac OS/IOS" width="45"height="45"/>
 ---
 <h2>🚀 &nbsp;Learning&nbsp; 🚀</h2>
 <p align="left">
-<img src="[https://pics.freeicons.io/uploads/icons/png/9114856761551941711-512.png](https://miro.medium.com/max/650/1*Hva7hcsFWulFUPhrEWui1A.jpeg)" alt="Nextjs" width="45" height="45"/>
+<img src="https://cdn.aglty.io/bwql7jyk/Attachments/NewItems/image_20211214122557_0.png" alt="Nextjs" width="45" height="45"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="45" height="45" />
 </p>
 
