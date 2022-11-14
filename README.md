@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  💬 My Socialmedia 💬
+  💬 My Social Media 💬
 </h1>
 
 <p align="center">
