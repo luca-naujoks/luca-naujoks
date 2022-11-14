@@ -14,7 +14,7 @@
   <img height="50" src="https://img.icons8.com/color/344/discord-new-logo.png"/>
 </a>
 <a href="https://stackoverflow.com/users/20371424/bobby68" target="_blank">
-  <img height="50" src="https://ibb.co/P6PDNRz"/>
+  <img height="50" src="[https://ibb.co/P6PDNRz](https://github.com/luca-naujoks/pictures/blob/87e7503e1369f759ea79530b7f18ebd2d5f60a06/pngwing.com.png)"/>
 </a>
 </p>
 
