@@ -13,7 +13,7 @@
   <img height="50" src="https://img.icons8.com/color/344/discord-new-logo.png"/>
 </a>
 <a href="https://stackoverflow.com/users/20371424/bobby68" target="_blank">
-  <img height="50" src="https://discord.com/channels/@me/928355958281883748/1041666556406534165"/>
+  <img height="50" src="https://ibb.co/P6PDNRz"/>
 </a>
 </p>
 
