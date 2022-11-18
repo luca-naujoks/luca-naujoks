@@ -53,8 +53,12 @@ hobbies:
     "play with hardware"
   ]
   
-currently_learning: ["Docker, Angular"]
-2022 Goals: ["Learn Angular and progress in Docker"]
+2023 Goals: 
+[
+  "Work/Learn with Nextjs, tailwindcss", 
+  "progress in Docker"
+]
+
 ```
   
 ---  
