@@ -52,13 +52,14 @@ hobbies:
     "Diving", 
     "play with hardware"
   ]
+  
 currently_learning: ["Docker, Angular"]
 2022 Goals: ["Learn Angular and progress in Docker"]
 ```
   
 ---  
   
-<h2> 🚀 &nbsp;Some Tools I Use&nbsp; 🚀</h2>
+<h2> 🧰 &nbsp;Some Tools I Use&nbsp; 🧰</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg"
