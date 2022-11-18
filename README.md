@@ -46,7 +46,14 @@ technical_background:
   
 currently_learning: ["Docker, Angular"]
 2022 Goals: ["Learn Angular and progress in Docker"]
-hobbies: ["Gaming", "Programming", "Firefighter", "Diving", "play with hardware"]
+hobbies: 
+  [
+    "Gaming", 
+    "Programming", 
+    "Firefighter", 
+    "Diving", 
+    "play with hardware"
+  ]
 ```
   
 ---  
