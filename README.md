@@ -44,8 +44,6 @@ technical_background:
    "IT system electronics technician"
   ]
   
-currently_learning: ["Docker, Angular"]
-2022 Goals: ["Learn Angular and progress in Docker"]
 hobbies: 
   [
     "Gaming", 
@@ -54,6 +52,8 @@ hobbies:
     "Diving", 
     "play with hardware"
   ]
+currently_learning: ["Docker, Angular"]
+2022 Goals: ["Learn Angular and progress in Docker"]
 ```
   
 ---  
