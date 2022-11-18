@@ -86,6 +86,7 @@ alt="Mac OS/IOS" width="45"height="45"/>
 <p align="left">
 <img src="https://cdn.aglty.io/bwql7jyk/Attachments/NewItems/image_20211214122557_0.png" alt="Nextjs" width="45" height="45"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="45" height="45" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwindcss" width="45" height="45" />
 </p>
 
 ---
