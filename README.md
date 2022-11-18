@@ -54,10 +54,10 @@ hobbies:
   ]
   
 2023 Goals: 
-[
-  "Work/Learn with Nextjs, tailwindcss", 
-  "progress in Docker"
-]
+  [
+    "Work/Learn with Nextjs, tailwindcss", 
+    "progress in Docker"
+  ]
 
 ```
   
