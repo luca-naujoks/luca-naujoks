@@ -82,7 +82,7 @@ alt="Mac OS/IOS" width="45"height="45"/>
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="python" width="45" height="45" />
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="Java" width="45" height="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
@@ -94,11 +94,17 @@ alt="Mac OS/IOS" width="45"height="45"/>
 </p>
 
 ---
-<h2>🚀 &nbsp;Learning&nbsp; 🚀</h2>
+<h2>🚀 &nbsp;Currently Used in Projects&nbsp; 🚀</h2>
+<h4>Project Web</h4>
 <p align="left">
 <img src="https://cdn.aglty.io/bwql7jyk/Attachments/NewItems/image_20211214122557_0.png" alt="Nextjs" width="45" height="45"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="45" height="45" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwindcss" width="45" height="45" />
+</p>
+<h4>Project Titan</h4>
+<p align="left">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="Inteliji" width="45" height="45"/>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="Java" width="45" height="45" />
 </p>
 
 ---
