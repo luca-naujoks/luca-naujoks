@@ -8,18 +8,18 @@
 
 <p align="center">
 <a href="https://bobby68.de" target="_blank">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
+  <img height="50" src="https://github.com/luca-naujoks/pics/blob/main/website-icon.png"/>
   
 <a href="https://discord.com/users/528982743623925781" target="_blank">
-  <img height="50" src="https://img.icons8.com/color/344/discord-new-logo.png"/>
+  <img height="50" src="https://github.com/luca-naujoks/pics/blob/main/discord-new-logo.png"/>
 </a>
 <a href="https://stackoverflow.com/users/20371424/bobby68" target="_blank">
-  <img height="50" src="https://github.com/luca-naujoks/pictures/blob/1559270bea4c79e7fb11cd3a69d232f456c18ff9/pngwing.com.png"/>
+  <img height="50" src="https://github.com/luca-naujoks/pics/blob/main/pngwing.com.png"/>
 </a>
 </p>
 
 <p align="center">
-  <img src= "https://giffiles.alphacoders.com/487/48723.gif">
+  <img src= "https://github.com/luca-naujoks/pics/blob/main/sinon.gif">
 </p>
 
 ---
@@ -65,32 +65,32 @@ hobbies:
   
 <h2> 🧰 &nbsp;Some Tools I Use&nbsp; 🧰</h2>
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg"
+<img src="https://github.com/luca-naujoks/pics/blob/main/vscode.svg" alt="vscode" width="45" height="45"/>
+<img src="https://github.com/luca-naujoks/pics/blob/main/PyCharm.svg"
 alt="PyCharm" width="45" height="45">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg"
+<img src="https://github.com/luca-naujoks/pics/blob/main/Inteliji.svg"
 alt="IntelliJ" width="45" height="45">
 </p>
 
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
-<img src="https://www.kim-bewertung.de/wp-content/uploads/2021/06/Windows-10-Icon.png" alt="Windows" width="45" height="45"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Icon-Mac.svg/256px-Icon-Mac.svg.png"
+<img src="https://github.com/luca-naujoks/pics/blob/main/Docker.svg" alt="docker" width="45" height="45"/>
+<img src="https://github.com/luca-naujoks/pics/blob/main/Linux.svg" alt="linux" width="45" height="45"/>
+<img src="https://github.com/luca-naujoks/pics/blob/main/windows%20logot.png" alt="Windows" width="45" height="45"/>
+<img src="https://github.com/luca-naujoks/pics/blob/main/Apple.png"
 alt="Mac OS/IOS" width="45"height="45"/>
 </p>
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="Java" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
+<img src="https://github.com/luca-naujoks/pics/blob/main/python.svg" alt="python" width="45" height="45" />
+<img src="https://github.com/luca-naujoks/pics/blob/main/Java.png" alt="Java" width="45" height="45" />
+<img src="https://github.com/luca-naujoks/pics/blob/main/javascript.svg" alt="javascript" width="45" height="45" />
+<img src="https://github.com/luca-naujoks/pics/blob/main/HTML5.svg" alt="html" width="45" height="45"/>
+<img src="https://github.com/luca-naujoks/pics/blob/main/css3.svg" alt="css3" width="45" height="45" />
 </p>
 
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
+<img src="https://github.com/luca-naujoks/pics/blob/main/git.svg" alt="git" width="45" height="45"/>
+<img src="https://github.com/luca-naujoks/pics/blob/main/mysql.svg" alt="mysql" width="45" height="45" />
 </p>
 
 ---
@@ -103,8 +103,8 @@ alt="Mac OS/IOS" width="45"height="45"/>
 </p>
 <h4>Project Titan</h4>
 <p align="left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="Inteliji" width="45" height="45"/>
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="Java" width="45" height="45" />
+<img src="https://github.com/luca-naujoks/pics/blob/main/Inteliji.svg" alt="Inteliji" width="45" height="45"/>
+<img src="https://github.com/luca-naujoks/pics/blob/main/Java.png" alt="Java" width="45" height="45" />
 </p>
 
 ---
