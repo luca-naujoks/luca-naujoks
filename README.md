@@ -108,4 +108,4 @@ alt="Mac OS/IOS" width="45"height="45"/>
 </p>
 
 ---
-![Snake animation](https://github.com/luca-naujoks/luca-naujoks/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/luca-naujoks/luca-naujoks/blob/output/github-contribution-grid-snake-dark.svg)
