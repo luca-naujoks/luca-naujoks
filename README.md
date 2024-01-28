@@ -53,10 +53,10 @@ hobbies:
     "play with hardware"
   ]
   
-2023 Goals: 
+2024 Goals: 
   [
-    "Work/Learn with Nextjs, tailwindcss", 
-    "progress in Docker"
+    "Work with Nextjs 14",
+    "Develop a game in Godot"
   ]
 
 ```
