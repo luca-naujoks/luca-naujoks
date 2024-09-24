@@ -75,11 +75,6 @@ alt="Mac OS/IOS" width="45"height="45"/>
 <img src="https://github.com/luca-naujoks/pics/blob/main/css3.svg" alt="css3" width="45" height="45" />
 </p>
 
-<p align="left">
-<img src="https://github.com/luca-naujoks/pics/blob/main/git.svg" alt="git" width="45" height="45"/>
-<img src="https://github.com/luca-naujoks/pics/blob/main/mysql.svg" alt="mysql" width="45" height="45" />
-</p>
-
 ---
 <h2>🚀 &nbsp;Currently Used in Projects&nbsp; 🚀</h2>
 <h4>My Website</h4>
