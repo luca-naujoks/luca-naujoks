@@ -36,8 +36,7 @@ fields_of_interests:
   [
     "Web Development",
     "Data Science",
-    "Machine Learning",
-    "Game Development",
+    "Machine Learning"
   ]
 technical_background:
   [
@@ -48,17 +47,9 @@ hobbies:
   [
     "Gaming", 
     "Programming", 
-    "Firefighter", 
-    "Diving", 
-    "play with hardware"
+    "Firefighter"
   ]
   
-2024 Goals: 
-  [
-    "Work with Nextjs 14",
-    "Develop a game in Godot"
-  ]
-
 ```
   
 ---  
