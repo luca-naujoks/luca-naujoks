@@ -50,7 +50,7 @@ hobbies:
   
 ---  
   
-<h2> 🧰 &nbsp;Some Tools I Use&nbsp; 🧰</h2>
+<h2> 🧰 &nbsp;Some Tools I Daily Drive&nbsp; 🧰</h2>
 <p align="left">
 <img src="https://github.com/luca-naujoks/pics/blob/main/vscode.svg" alt="vscode" width="45" height="45"/>
 <img src="https://github.com/luca-naujoks/pics/blob/main/PyCharm.svg"
@@ -60,11 +60,8 @@ alt="IntelliJ" width="45" height="45">
 </p>
 
 <p align="left">
-<img src="https://github.com/luca-naujoks/pics/blob/main/Docker.svg" alt="docker" width="45" height="45"/>
 <img src="https://github.com/luca-naujoks/pics/blob/main/Linux.svg" alt="linux" width="45" height="45"/>
 <img src="https://github.com/luca-naujoks/pics/blob/main/windows%20logot.png" alt="Windows" width="45" height="45"/>
-<img src="https://github.com/luca-naujoks/pics/blob/main/Apple.png"
-alt="Mac OS/IOS" width="45"height="45"/>
 </p>
 
 <p align="left">
@@ -74,15 +71,3 @@ alt="Mac OS/IOS" width="45"height="45"/>
 <img src="https://github.com/luca-naujoks/pics/blob/main/HTML5.svg" alt="html" width="45" height="45"/>
 <img src="https://github.com/luca-naujoks/pics/blob/main/css3.svg" alt="css3" width="45" height="45" />
 </p>
-
----
-<h2>🚀 &nbsp;Currently Used in Projects&nbsp; 🚀</h2>
-<h4>My Website</h4>
-<p align="left">
-<img src="https://cdn.aglty.io/bwql7jyk/Attachments/NewItems/image_20211214122557_0.png" alt="Nextjs" width="45" height="45"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="45" height="45" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwindcss" width="45" height="45" />
-</p>
-
----
-![Snake animation](https://github.com/luca-naujoks/luca-naujoks/blob/output/github-contribution-grid-snake-dark.svg)
