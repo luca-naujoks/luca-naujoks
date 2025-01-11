@@ -21,10 +21,10 @@
         `sMMMMMMMd:      :mMMMMMMMs`           Uptime: 19 years
 `-/+oo+/:`.yMMMMMMMh-  -hMMMMMMMy.`:/+oo+/-`   OS: Proxmox VE
 `:oooooooo/`-hMMMMMMMyyMMMMMMMh-`/oooooooo:`   Languages: TypeScript, Python ~Java 
-  `/oooooooo:`:mMMMMMMMMMMMMm:`:oooooooo/`     Uptime: 19 years 
-    ./ooooooo+- +NMMMMMMMMN+ -+ooooooo/.       Shell: Bash
-      .+ooooooo+-`oNMMMMNo`-+ooooooo+.         Editor: VScode, Webstorm, PyCharm, IntelliJ
-        -+ooooooo/.`sMMs`./ooooooo+-           Hobbies: Programming, Gaming, Firefighting
+  `/oooooooo:`:mMMMMMMMMMMMMm:`:oooooooo/`     Shell: Bash
+    ./ooooooo+- +NMMMMMMMMN+ -+ooooooo/.       Editor: VScode, Webstorm, PyCharm, IntelliJ
+      .+ooooooo+-`oNMMMMNo`-+ooooooo+.         Hobbies: Programming, Gaming, Firefighting
+        -+ooooooo/.`sMMs`./ooooooo+-          
           :oooooooo/`..`/oooooooo:             
           :oooooooo/`..`/oooooooo:             
         -+ooooooo/.`sMMs`./ooooooo+-
