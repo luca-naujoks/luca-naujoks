@@ -4,11 +4,11 @@
 
 <p align="center">
 <a href="https://bobby68.de" target="_blank">
-  <img height="50" src="https://github.com/luca-naujoks/luca-naujoks/blob/main/website-icon.png"/>
+  <img height="50" src="https://github.com/luca-naujoks/luca-naujoks/blob/main/website-icon.png" alt="website_icon"/>
 </p>
 
 <p align="center">
-  <img src= "https://github.com/luca-naujoks/luca-naujoks/blob/main/sinon.gif">
+  <img src= "https://github.com/luca-naujoks/luca-naujoks/blob/main/sinon.gif" alt="title_gif">
 </p>
 
 <h1 align="center">
@@ -18,7 +18,7 @@
 ```kotlink
          .://:`              `://:.            luca@germany 
        `hMMMMMMd/          /dMMMMMMh`          -------- 
-        `sMMMMMMMd:      :mMMMMMMMs`           Uptime: 19 years
+        `sMMMMMMMd:      :mMMMMMMMs`           Uptime: 20 years
 `-/+oo+/:`.yMMMMMMMh-  -hMMMMMMMy.`:/+oo+/-`   OS: Proxmox VE
 `:oooooooo/`-hMMMMMMMyyMMMMMMMh-`/oooooooo:`   Languages: TypeScript, Python ~Java 
   `/oooooooo:`:mMMMMMMMMMMMMm:`:oooooooo/`     Shell: Bash
