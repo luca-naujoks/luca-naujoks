@@ -16,13 +16,13 @@
 </h1>
 
 ```kotlink
-         .://:`              `://:.            luca@germany 
+         .://:`              `://:.            luca@germany
        `hMMMMMMd/          /dMMMMMMh`          -------- 
         `sMMMMMMMd:      :mMMMMMMMs`           Uptime: 20 years
-`-/+oo+/:`.yMMMMMMMh-  -hMMMMMMMy.`:/+oo+/-`   OS: Proxmox VE
-`:oooooooo/`-hMMMMMMMyyMMMMMMMh-`/oooooooo:`   Languages: TypeScript, Python ~Java 
+`-/+oo+/:`.yMMMMMMMh-  -hMMMMMMMy.`:/+oo+/-`   OS: Linux && MacOS
+`:oooooooo/`-hMMMMMMMyyMMMMMMMh-`/oooooooo:`   Languages: TypeScript, Python GoLang 
   `/oooooooo:`:mMMMMMMMMMMMMm:`:oooooooo/`     Shell: Bash
-    ./ooooooo+- +NMMMMMMMMN+ -+ooooooo/.       Editor: VScode, Webstorm, PyCharm, IntelliJ
+    ./ooooooo+- +NMMMMMMMMN+ -+ooooooo/.       Editor: VScode, Jetbrains IDE's, Xcode
       .+ooooooo+-`oNMMMMNo`-+ooooooo+.         Hobbies: Programming, Gaming, Firefighting
         -+ooooooo/.`sMMs`./ooooooo+-          
           :oooooooo/`..`/oooooooo:             
