@@ -4,11 +4,11 @@
 
 <p align="center">
 <a href="https://bobby68.de" target="_blank">
-  <img height="50" src="https://github.com/luca-naujoks/luca-naujoks/blob/main/website-icon.png" alt="website_icon"/>
+  <img height="50" src="https://images.bobby68.de/website-icon.png" alt="website_icon"/>
 </p>
 
 <p align="center">
-  <img src= "https://github.com/luca-naujoks/luca-naujoks/blob/main/sinon.gif" alt="title_gif">
+  <img src= "https://images.bobby68.de/sinon.gif" alt="title_gif">
 </p>
 
 <h1 align="center">
